@@ -2,12 +2,13 @@
 Stable Matching Problem solved by Greedy Algorithm
 
 ## Instructions
-1. run *generate_points.py* to build new testing points
-2. run *stable_matching.py* to run the actual algorith
-3. run *print_points.py* to draw the resulting matches
+run...
+1. *generate_points.py* to build new testing points
+2. *stable_matching.py* to run the actual algorith
+3. *print_points.py* to draw the resulting matches
 
 ## Notes
-change
+modify...
 - *HKEY_FILE_PATH_A* to change the source of the A conjunt points
 - *HKEY_FILE_PATH_B* to change the source of the B conjunt points
 - *HKEY_FILE_PATH_MATCHES* to change the source of de matches points
