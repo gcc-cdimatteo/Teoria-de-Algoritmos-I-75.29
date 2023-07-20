@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28783f401c730074",
+            "id": "bab5e4991c8d906e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "28783f401c730074",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greedy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Greedy.md"
+              }
             }
           }
         ]
@@ -140,9 +162,15 @@
   },
   "active": "28783f401c730074",
   "lastOpenFiles": [
+    "Union-Find Data.md",
+    "Untitled Diagram.drawio.png",
+    "Greedy.md",
+    "Minimum Spanning Tree.md",
+    "Kruskal's MST.md",
+    "Prim's MST.md",
+    "Reverse-Delete MST.md",
     "Dijkstra Shortest Paths in a Graph.md",
     "Divide & Conquer.md",
-    "Dynamic Programming.md",
-    "Greedy.md"
+    "Dynamic Programming.md"
   ]
 }

@@ -5,3 +5,4 @@ Start with the full graph $(V, E)$ and begin deleting edges in order of decreasi
 ### Proof of Optimality
 #incomplete 
 ### Time Complexity
+Because of the edge sorting by decreasing cost $$O(E \log{E})$$
