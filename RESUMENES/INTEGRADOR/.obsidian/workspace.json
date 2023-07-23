@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "a70c594883cdcbf9",
+            "id": "ccbcfd122a6b5a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divide & Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7b6663cadeb35fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mergesort Algorithm.md",
+                "file": "DIVIDE & CONQUER/Counting Inversions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mergesort Algorithm.md",
+                "file": "DIVIDE & CONQUER/Counting Inversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mergesort Algorithm.md",
+                "file": "DIVIDE & CONQUER/Counting Inversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mergesort Algorithm.md"
+                "file": "DIVIDE & CONQUER/Counting Inversions.md"
               }
             }
           }
@@ -169,21 +157,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7b6663cadeb35fb",
+  "active": "ccbcfd122a6b5a1e",
   "lastOpenFiles": [
-    "Divide & Conquer.md",
-    "Mergesort Algorithm.md",
-    "Greedy.md",
-    "Master Theorem.md",
+    "DIVIDE & CONQUER/Divide & Conquer.md",
     "Dynamic Programming.md",
+    "GREEDY/Greedy.md",
     "Weighted Interval Scheduling.md",
-    "Huffman Codes and Data Compression.md",
-    "Union-Find Data.md",
-    "Untitled Diagram.drawio.png",
-    "Minimum Spanning Tree.md",
-    "Kruskal's MST.md",
-    "Prim's MST.md",
-    "Reverse-Delete MST.md",
-    "Dijkstra Shortest Paths in a Graph.md"
+    "Randomized.md",
+    "NP & Computational Intractability.md",
+    "Network Flow.md",
+    "GREEDY/Pasted image 20230719195535.png",
+    "GREEDY/Union-Find Data.md",
+    "GREEDY/Scheduling to Minimize Lateness.md",
+    "GREEDY/Reverse-Delete MST.md",
+    "GREEDY/Prim's MST.md",
+    "GREEDY/Minimum Spanning Tree.md",
+    "GREEDY/Kruskal's MST.md",
+    "GREEDY/Interval Scheduling.md",
+    "GREEDY/Interval Partitioning.md",
+    "GREEDY/Huffman Codes and Data Compression.md",
+    "GREEDY/Dijkstra Shortest Paths in a Graph.md",
+    "Approximation.md",
+    "GREEDY/Untitled Diagram.drawio.png",
+    "GREEDY/Pasted image 20230717174801.png",
+    "DIVIDE & CONQUER",
+    "GREEDY",
+    "DIVIDE & CONQUER/Counting Inversions.md",
+    "Further Recurrence Relations.md",
+    "DIVIDE & CONQUER/Mergesort Algorithm.md",
+    "DIVIDE & CONQUER/Master Theorem.md"
   ]
 }
