@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "3ea3802d86b5b6be",
+            "id": "7a3abe7e52dfe1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIVIDE & CONQUER/Closest Pair of Points.md",
+                "file": "DIVIDE & CONQUER/Integer Multiplication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIVIDE & CONQUER/Closest Pair of Points.md",
+                "file": "DIVIDE & CONQUER/Divide & Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIVIDE & CONQUER/Closest Pair of Points.md",
+                "file": "DIVIDE & CONQUER/Divide & Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIVIDE & CONQUER/Closest Pair of Points.md"
+                "file": "DIVIDE & CONQUER/Divide & Conquer.md"
               }
             }
           }
@@ -172,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d373e2bb0006965",
+  "active": "386c62e061486992",
   "lastOpenFiles": [
+    "DIVIDE & CONQUER/Integer Multiplication.md",
     "DIVIDE & CONQUER/Divide & Conquer.md",
-    "DIVIDE & CONQUER/Counting Inversions.md",
     "DIVIDE & CONQUER/Closest Pair of Points.md",
+    "DIVIDE & CONQUER/Counting Inversions.md",
     "DIVIDE & CONQUER/Pasted image 20230723214715.png",
     "DIVIDE & CONQUER/Mergesort Algorithm.md",
     "DIVIDE & CONQUER/Pasted image 20230723201056.png",
