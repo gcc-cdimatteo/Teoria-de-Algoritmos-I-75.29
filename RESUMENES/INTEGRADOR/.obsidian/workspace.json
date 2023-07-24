@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07db7b13c40454d1",
+        "id": "6d7b909563d060ab",
         "type": "tabs",
         "children": [
           {
-            "id": "bab5e4991c8d906e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "671e00989f448945",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9e95b2b8f526c5f7",
+            "id": "7a2b65aa0051bea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -111,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md"
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md"
               }
             }
           }
@@ -172,14 +142,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e95b2b8f526c5f7",
+  "active": "6d373e2bb0006965",
   "lastOpenFiles": [
-    "DYNAMIC PROGRAMMING",
-    "Dynamic Programming.md",
     "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
+    "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "DIVIDE & CONQUER/Divide & Conquer.md",
-    "DIVIDE & CONQUER/Karatsuba Integer Multiplication.md",
     "DIVIDE & CONQUER/Closest Pair of Points.md",
+    "GREEDY/Huffman Codes and Data Compression.md",
+    "DYNAMIC PROGRAMMING",
+    "DIVIDE & CONQUER/Karatsuba Integer Multiplication.md",
     "DIVIDE & CONQUER/Counting Inversions.md",
     "DIVIDE & CONQUER/Pasted image 20230723214715.png",
     "DIVIDE & CONQUER/Mergesort Algorithm.md",
@@ -198,7 +169,6 @@
     "GREEDY/Kruskal's MST.md",
     "GREEDY/Interval Scheduling.md",
     "GREEDY/Interval Partitioning.md",
-    "GREEDY/Huffman Codes and Data Compression.md",
     "GREEDY/Dijkstra Shortest Paths in a Graph.md",
     "Approximation.md",
     "GREEDY/Untitled Diagram.drawio.png",
