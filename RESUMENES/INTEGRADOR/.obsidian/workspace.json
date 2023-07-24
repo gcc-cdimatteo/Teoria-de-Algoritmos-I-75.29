@@ -30,9 +30,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "381d6ac958fb7737",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -99,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIVIDE & CONQUER/Segmented Least Squares.md",
+                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIVIDE & CONQUER/Segmented Least Squares.md",
+                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIVIDE & CONQUER/Segmented Least Squares.md"
+                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png"
               }
             }
           }
@@ -162,10 +171,17 @@
   },
   "active": "6d373e2bb0006965",
   "lastOpenFiles": [
+    "DIVIDE & CONQUER/Pasted image 20230723214715.png",
+    "DIVIDE & CONQUER/Pasted image 20230723201056.png",
+    "DIVIDE & CONQUER/Pasted image 20230723193251.png",
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
-    "DIVIDE & CONQUER/Segmented Least Squares.md",
-    "DIVIDE & CONQUER/Knapsack.md",
-    "DIVIDE & CONQUER/Subset Sum.md",
+    "DYNAMIC PROGRAMMING/Kadane Maximum Subarray Problem.md",
+    "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
+    "DYNAMIC PROGRAMMING/Subset Sum.md",
+    "DYNAMIC PROGRAMMING/Sequence Alignment.md",
+    "Memoization or Iteration over Subproblems.md",
+    "DYNAMIC PROGRAMMING/Segmented Least Squares.md",
+    "DYNAMIC PROGRAMMING/Knapsack.md",
     "DYNAMIC PROGRAMMING/Pasted image 20230724114313.png",
     "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
     "GREEDY/Interval Scheduling.md",
@@ -176,11 +192,8 @@
     "DIVIDE & CONQUER/Karatsuba Integer Multiplication.md",
     "DIVIDE & CONQUER/Closest Pair of Points.md",
     "DIVIDE & CONQUER/Counting Inversions.md",
-    "DIVIDE & CONQUER/Pasted image 20230723214715.png",
     "DIVIDE & CONQUER/Mergesort Algorithm.md",
-    "DIVIDE & CONQUER/Pasted image 20230723201056.png",
     "GREEDY/Greedy.md",
-    "DIVIDE & CONQUER/Pasted image 20230723193251.png",
     "Randomized.md",
     "NP & Computational Intractability.md",
     "Network Flow.md",
@@ -191,10 +204,6 @@
     "GREEDY/Prim's MST.md",
     "GREEDY/Minimum Spanning Tree.md",
     "GREEDY/Kruskal's MST.md",
-    "GREEDY/Interval Partitioning.md",
-    "GREEDY/Huffman Codes and Data Compression.md",
-    "GREEDY/Dijkstra Shortest Paths in a Graph.md",
-    "Approximation.md",
     "GREEDY/Untitled Diagram.drawio.png",
     "GREEDY/Pasted image 20230717174801.png",
     "DIVIDE & CONQUER",
