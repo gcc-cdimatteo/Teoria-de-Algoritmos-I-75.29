@@ -49,3 +49,5 @@ Sort-and-Count(L)
 	
 	Return r = rA + rB + r, and the sorted list L
 ```
+### Recurrence Relation
+$$T(n) ≤ 2*T(n/2) + O(n) = O(n\log{n})$$

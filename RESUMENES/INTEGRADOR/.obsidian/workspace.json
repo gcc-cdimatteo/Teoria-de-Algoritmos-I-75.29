@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -171,13 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea3802d86b5b6be",
+  "active": "6d373e2bb0006965",
   "lastOpenFiles": [
     "DIVIDE & CONQUER/Divide & Conquer.md",
-    "DIVIDE & CONQUER/Closest Pair of Points.md",
     "DIVIDE & CONQUER/Counting Inversions.md",
-    "DIVIDE & CONQUER/Pasted image 20230723201056.png",
+    "DIVIDE & CONQUER/Closest Pair of Points.md",
+    "DIVIDE & CONQUER/Pasted image 20230723214715.png",
     "DIVIDE & CONQUER/Mergesort Algorithm.md",
+    "DIVIDE & CONQUER/Pasted image 20230723201056.png",
     "GREEDY/Greedy.md",
     "DIVIDE & CONQUER/Pasted image 20230723193251.png",
     "Dynamic Programming.md",
