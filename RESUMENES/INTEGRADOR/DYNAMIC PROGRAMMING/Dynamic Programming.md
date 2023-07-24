@@ -1,6 +1,7 @@
 [[Weighted Interval Scheduling]]
 [[Memoization or Iteration over Subproblems]]
 [[Segmented Least Squares]]
+[[Subset Sum]]
 [[Knapsack]]
 [[Sequence Alignment]]
 [[Sequence Alignment in Linear Space]]

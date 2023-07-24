@@ -14,8 +14,9 @@ Subset-Sum(n, W):
 	
 	For i = 1,2,...,n
 		For w = 0,...,W
-			M[i,w] = max(Subset-Sum(i−1,w), w_i + Subset-Sum(i−1,w−wi))
+			M[i,w] = max(Subset-Sum(i−1,w), wi + Subset-Sum(i−1,w−wi))
 	    Endfor
 	Endfor
-Return M[n, W]
+
+	Return M[n, W]
 ```
