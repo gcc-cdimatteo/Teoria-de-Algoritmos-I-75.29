@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knapsack.md",
+                "file": "DIVIDE & CONQUER/Knapsack.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subset Sum.md",
+                "file": "DIVIDE & CONQUER/Subset Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subset Sum.md",
+                "file": "DIVIDE & CONQUER/Subset Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subset Sum.md",
+                "file": "DIVIDE & CONQUER/Subset Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subset Sum.md"
+                "file": "DIVIDE & CONQUER/Subset Sum.md"
               }
             }
           }
@@ -184,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5deda00ad9daf5a6",
+  "active": "6d373e2bb0006965",
   "lastOpenFiles": [
-    "Knapsack.md",
-    "Subset Sum.md",
+    "DIVIDE & CONQUER/Knapsack.md",
+    "DIVIDE & CONQUER/Subset Sum.md",
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "DYNAMIC PROGRAMMING/Pasted image 20230724114313.png",
     "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
