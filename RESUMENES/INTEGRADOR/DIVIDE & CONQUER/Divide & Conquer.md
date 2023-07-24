@@ -4,3 +4,4 @@ Divide the input into two pieces of equal size; solve the two subproblems on the
 [[Counting Inversions]]
 [[Closest Pair of Points]]
 [[Karatsuba Integer Multiplication]]
+[[Puntos extremos en polígono convexo]]
