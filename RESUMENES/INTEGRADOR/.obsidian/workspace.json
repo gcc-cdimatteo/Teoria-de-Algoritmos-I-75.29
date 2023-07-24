@@ -30,19 +30,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "381d6ac958fb7737",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png"
+                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md"
               }
             }
           }
@@ -169,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d373e2bb0006965",
+  "active": "e127067d880195e4",
   "lastOpenFiles": [
+    "GREEDY/Dijkstra Shortest Path in a Graph.md",
+    "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+    "Shortest Path in a Graph.md",
+    "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
     "DIVIDE & CONQUER/Pasted image 20230723214715.png",
     "DIVIDE & CONQUER/Pasted image 20230723201056.png",
     "DIVIDE & CONQUER/Pasted image 20230723193251.png",
-    "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "DYNAMIC PROGRAMMING/Kadane Maximum Subarray Problem.md",
-    "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
     "DYNAMIC PROGRAMMING/Subset Sum.md",
     "DYNAMIC PROGRAMMING/Sequence Alignment.md",
     "Memoization or Iteration over Subproblems.md",
@@ -203,7 +195,6 @@
     "GREEDY/Reverse-Delete MST.md",
     "GREEDY/Prim's MST.md",
     "GREEDY/Minimum Spanning Tree.md",
-    "GREEDY/Kruskal's MST.md",
     "GREEDY/Untitled Diagram.drawio.png",
     "GREEDY/Pasted image 20230717174801.png",
     "DIVIDE & CONQUER",

@@ -5,5 +5,6 @@
 [[Sequence Alignment]]
 [[Sequence Alignment in Linear Space]]
 [[Kadane Maximum Subarray Problem]]
-[[Dijkstra Shortest Paths in a Graph]]
-[[Bellman Ford Shortest Paths]]
+[[Shortest Path in a Graph]]
+[[Dijkstra Shortest Path in a Graph]]
+[[Bellman Ford Shortest Path]]
