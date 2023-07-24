@@ -3,4 +3,4 @@ Divide the input into two pieces of equal size; solve the two subproblems on the
 [[Mergesort Algorithm]]
 [[Counting Inversions]]
 [[Closest Pair of Points]]
-[[Integer Multiplication]]
+[[Karatsuba Integer Multiplication]]
