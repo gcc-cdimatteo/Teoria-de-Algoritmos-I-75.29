@@ -1,4 +1,4 @@
-[[Maximum-Flow Problem & Ford-Fulkerson Algorithm]]
+[[Ford-Fulkerson Maximum-Flow]]
 [[Maximum Flows and Minimum Cuts in a Network]]
 [[Choosing Good Augmenting Paths]]
 [[Bipartite Matching Problem]]

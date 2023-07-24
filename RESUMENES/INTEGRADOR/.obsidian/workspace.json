@@ -18,21 +18,33 @@
             }
           },
           {
-            "id": "e127067d880195e4",
+            "id": "93129a295c5161b0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+                "file": "NETWORK FLOW/Network Flow.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "aadeac5049ace3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYNAMIC PROGRAMMING/Dynamic Programming.md"
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md"
               }
             }
           }
@@ -159,10 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e127067d880195e4",
+  "active": "6d373e2bb0006965",
   "lastOpenFiles": [
-    "GREEDY/Dijkstra Shortest Path in a Graph.md",
+    "Pasted image 20230724185254.png",
+    "NETWORK FLOW/Network Flow.md",
+    "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
+    "NETWORK FLOW",
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+    "DYNAMIC PROGRAMMING/Bellman Ford Shortest Paths in a Graph.md",
+    "DYNAMIC PROGRAMMING/Pasted image 20230724183746.png",
+    "DYNAMIC PROGRAMMING/Pasted image 20230724183800.png",
+    "Pasted image 20230724183707.png",
+    "Pasted image 20230724182905.png",
+    "Pasted image 20230724182937.png",
+    "GREEDY/Dijkstra Shortest Path in a Graph.md",
+    "GREEDY/Greedy.md",
     "Shortest Path in a Graph.md",
     "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
     "DIVIDE & CONQUER/Pasted image 20230723214715.png",
@@ -177,7 +200,6 @@
     "DYNAMIC PROGRAMMING/Pasted image 20230724114313.png",
     "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
     "GREEDY/Interval Scheduling.md",
-    "DYNAMIC PROGRAMMING/Pasted image 20230724113525.png",
     "DYNAMIC PROGRAMMING",
     "Dynamic Programming.md",
     "DIVIDE & CONQUER/Divide & Conquer.md",
@@ -185,18 +207,10 @@
     "DIVIDE & CONQUER/Closest Pair of Points.md",
     "DIVIDE & CONQUER/Counting Inversions.md",
     "DIVIDE & CONQUER/Mergesort Algorithm.md",
-    "GREEDY/Greedy.md",
     "Randomized.md",
     "NP & Computational Intractability.md",
-    "Network Flow.md",
-    "GREEDY/Pasted image 20230719195535.png",
     "GREEDY/Union-Find Data.md",
     "GREEDY/Scheduling to Minimize Lateness.md",
-    "GREEDY/Reverse-Delete MST.md",
-    "GREEDY/Prim's MST.md",
-    "GREEDY/Minimum Spanning Tree.md",
-    "GREEDY/Untitled Diagram.drawio.png",
-    "GREEDY/Pasted image 20230717174801.png",
     "DIVIDE & CONQUER",
     "GREEDY"
   ]
