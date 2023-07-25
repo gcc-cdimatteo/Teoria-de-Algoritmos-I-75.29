@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NETWORK FLOW/Network Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NETWORK FLOW/Network Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NETWORK FLOW/Network Flow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93129a295c5161b0",
+  "active": "bab5e4991c8d906e",
   "lastOpenFiles": [
-    "NETWORK FLOW/Disjoint Paths.md",
     "NETWORK FLOW/Network Flow.md",
+    "NETWORK FLOW/Disjoint Paths.md",
     "NETWORK FLOW/Untitled Diagram-Copy of Page-1.png",
     "NETWORK FLOW/Pasted image 20230725101939.png",
     "NETWORK FLOW/Circulations with Demands.md",

@@ -8,28 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:greedy",
+      "query": "path:GREEDY",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "file:divide & conquer",
+      "query": "path:\"DIVIDE & CONQUER\"",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "file:dynamic programming",
+      "query": "path:\"DYNAMIC PROGRAMMING\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "file:network flow",
+      "query": "path:\"NETWORK FLOW\"",
       "color": {
         "a": 1,
         "rgb": 5984992
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 317,
-  "scale": 0.6193820899715814,
+  "scale": 0.20582774688003116,
   "close": true
 }
