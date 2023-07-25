@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d373e2bb0006965",
+  "active": "aadeac5049ace3f8",
   "lastOpenFiles": [
     "Pasted image 20230724185254.png",
     "NETWORK FLOW/Network Flow.md",
