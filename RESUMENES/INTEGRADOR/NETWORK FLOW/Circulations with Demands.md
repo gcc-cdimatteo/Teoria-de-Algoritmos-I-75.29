@@ -18,3 +18,4 @@ The total supply must equal the total demand: $$D=\sum_{v:d_v>0}{d_v}= \sum_{v:d
 3. Attach in $G'$ a *super-sink* $t*$ to each node in $T$ with capacity $d_v$
 4. Use Ford-Fulkerson to find the maximum flow in $G'$
 There is a **feasible circulation** with demands $d_v$ in $G$ if and only if the maximum $s∗-t∗$ flow in $G'$ has value $D$.
+![[Pasted image 20230725184615.png]]

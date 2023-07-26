@@ -1,7 +1,8 @@
 ## Problem
 A *bipartite graph* $G = (V , E)$ is an undirected graph whose node set can be partitioned as $V = X ∪ Y$, with the property that every edge $e ∈ E$ has one end in $X$ and the other end in $Y$. 
 A *matching* $M$ in $G$ is a subset of the edges $M ⊆ E$ such that each node appears in at most one edge in $M$. 
-Find a matching in G of largest possible size.
+##### Goal
+Find a matching in $G$ of largest possible size.
 ## Solution
 1. Clone graph $G$ in $G'$
 2. Direct all edges in $G$ from $X$ to $Y$

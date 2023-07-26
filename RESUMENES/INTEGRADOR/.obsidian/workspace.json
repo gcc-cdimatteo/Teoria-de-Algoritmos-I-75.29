@@ -32,7 +32,19 @@
             }
           },
           {
-            "id": "2c0ef4a070e52a64",
+            "id": "e18aa2e5c7f4b723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETWORK FLOW/Circulations with Demands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78ef41ba00f34de1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a99757b0517f719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -110,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md"
+              }
             }
           }
         ]
@@ -167,14 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab5e4991c8d906e",
+  "active": "6d373e2bb0006965",
   "lastOpenFiles": [
     "NETWORK FLOW/Network Flow.md",
     "NETWORK FLOW/Disjoint Paths.md",
+    "NETWORK FLOW/Circulations with Demands.md",
+    "NETWORK FLOW/Airline Scheduling.md",
+    "NETWORK FLOW/Survey Design.md",
+    "NETWORK FLOW/Bipartite Matching.md",
+    "NETWORK FLOW/Pasted image 20230725184615.png",
     "NETWORK FLOW/Untitled Diagram-Copy of Page-1.png",
     "NETWORK FLOW/Pasted image 20230725101939.png",
-    "NETWORK FLOW/Circulations with Demands.md",
-    "NETWORK FLOW/Bipartite Matching.md",
     "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
     "DYNAMIC PROGRAMMING/Pasted image 20230724113525.png",
     "DYNAMIC PROGRAMMING/Pasted image 20230724114313.png",
@@ -187,7 +218,6 @@
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "DYNAMIC PROGRAMMING/Bellman Ford Shortest Paths in a Graph.md",
     "Pasted image 20230724183707.png",
-    "Pasted image 20230724182905.png",
     "GREEDY/Dijkstra Shortest Path in a Graph.md",
     "GREEDY/Greedy.md",
     "Shortest Path in a Graph.md",
@@ -205,7 +235,6 @@
     "DIVIDE & CONQUER/Karatsuba Integer Multiplication.md",
     "DIVIDE & CONQUER/Closest Pair of Points.md",
     "DIVIDE & CONQUER/Counting Inversions.md",
-    "DIVIDE & CONQUER/Mergesort Algorithm.md",
     "DIVIDE & CONQUER",
     "GREEDY"
   ]
