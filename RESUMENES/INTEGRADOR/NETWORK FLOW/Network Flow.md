@@ -4,6 +4,7 @@
 [[Bipartite Matching]]
 [[Disjoint Paths]]
 [[Circulations with Demands]]
+[[Circulations with Demands and Lower Bounds]]
 [[Survey Design]]
 [[Airline Scheduling]]
 [[Image Segmentation]]
