@@ -1,7 +1,0 @@
-[[Polynomial-Time Reductions]]
-[[Satisfiability Problem]]
-[[NP-Complete Problems]]
-[[Sequencing Problems]]
-[[Partitioning Problems]]
-[[Graph Coloring]]
-[[Numerical Problems]]

@@ -18,21 +18,32 @@
             }
           },
           {
-            "id": "93129a295c5161b0",
+            "id": "74549eb2af55e0da",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK FLOW/Network Flow.md",
+                "file": "NPC/NP & Computational Intractability.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7aee096060e9270e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/3-SAT & Independent Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NETWORK FLOW/Network Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NETWORK FLOW/Network Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NETWORK FLOW/Network Flow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,44 +166,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93129a295c5161b0",
+  "active": "bab5e4991c8d906e",
   "lastOpenFiles": [
+    "NPC/3-SAT & Independent Set.md",
+    "NPC/NP & Computational Intractability.md",
+    "NPC/SAT Satisfiability Problem.md",
+    "NPC/Independent Set.md",
+    "NETWORK FLOW/Disjoint Paths.md",
+    "NPC",
+    "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
+    "NETWORK FLOW/Minimum Cut.md",
+    "NETWORK FLOW/Network Flow.md",
+    "NPC/Pasted image 20230728100900.png",
+    "Approximation.md",
+    "NPC/Set Packing.md",
+    "NPC/Independent Set & Set Packing.md",
+    "NPC/Independent Set & Vertex Cover.md",
+    "NPC/Vertex Cover & Set Cover.md",
+    "NPC/Set Cover.md",
+    "NPC/Vertex Cover.md",
+    "NPC/Pasted image 20230728094400.png",
     "NETWORK FLOW/Airline Scheduling.md",
     "NETWORK FLOW/Pasted image 20230726205349.png",
-    "NETWORK FLOW/Network Flow.md",
     "NETWORK FLOW/Circulations with Demands.md",
     "NETWORK FLOW/Circulations with Demands and Lower Bounds.md",
-    "Approximation.md",
-    "NP & Computational Intractability.md",
     "Randomized.md",
     "README.md",
-    "NETWORK FLOW/Disjoint Paths.md",
     "NETWORK FLOW/Survey Design.md",
     "NETWORK FLOW/Bipartite Matching.md",
     "NETWORK FLOW/Pasted image 20230725184615.png",
     "NETWORK FLOW/Untitled Diagram-Copy of Page-1.png",
     "NETWORK FLOW/Pasted image 20230725101939.png",
-    "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
     "DYNAMIC PROGRAMMING/Pasted image 20230724113525.png",
     "DYNAMIC PROGRAMMING/Pasted image 20230724114313.png",
     "DYNAMIC PROGRAMMING/Pasted image 20230724155717.png",
     "DYNAMIC PROGRAMMING/Pasted image 20230724183746.png",
-    "DYNAMIC PROGRAMMING/Pasted image 20230724183800.png",
-    "NETWORK FLOW/Minimum Cut.md",
-    "Pasted image 20230724185254.png",
     "NETWORK FLOW",
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "DYNAMIC PROGRAMMING/Bellman Ford Shortest Paths in a Graph.md",
     "GREEDY/Dijkstra Shortest Path in a Graph.md",
     "GREEDY/Greedy.md",
-    "Shortest Path in a Graph.md",
-    "DYNAMIC PROGRAMMING/Kadane Maximum Subarray Problem.md",
-    "DYNAMIC PROGRAMMING/Subset Sum.md",
-    "DYNAMIC PROGRAMMING/Sequence Alignment.md",
-    "Memoization or Iteration over Subproblems.md",
-    "DYNAMIC PROGRAMMING/Segmented Least Squares.md",
-    "DYNAMIC PROGRAMMING/Knapsack.md",
-    "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
     "DYNAMIC PROGRAMMING",
     "DIVIDE & CONQUER",
     "GREEDY"
