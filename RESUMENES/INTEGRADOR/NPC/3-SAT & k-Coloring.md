@@ -1,0 +1,3 @@
+Recall [[SAT Satisfiability Problem#3-SAT]] & [[k-Coloring]].
+## $3-SAT \leq_p 3-Coloring \leq_p k-Coloring$
+When $k > 3$, it is very easy to reduce the 3-Coloring Problem to k-Coloring. Essentially, all we do is to take an instance of 3-Coloring, represented by a graph $G$, add $k − 3$ new nodes, and join these new nodes to each other and to every node in $G$. The resulting graph is k-colorable if and only if the original graph G is 3-colorable. Thus k-Coloring for any $k > 3$ is NP-complete as well.

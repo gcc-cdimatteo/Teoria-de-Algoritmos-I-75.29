@@ -30,9 +30,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "02fc652498c99ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/3-D Matching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 219.5
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -98,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPC/3-D Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPC/3-D Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPC/3-D Matching.md"
+              }
             }
           }
         ]
@@ -158,17 +174,24 @@
   "active": "6d373e2bb0006965",
   "lastOpenFiles": [
     "NPC/NP & Computational Intractability.md",
+    "DYNAMIC PROGRAMMING/Subset Sum.md",
+    "NPC/3-SAT & k-Coloring.md",
+    "NPC/k-Coloring.md",
+    "DYNAMIC PROGRAMMING/Knapsack.md",
+    "NPC/3-SAT & 3-D Matching.md",
+    "NPC/3-D Matching.md",
+    "NPC/SAT Satisfiability Problem.md",
+    "NPC/Hamilton Cycle & TSP.md",
+    "NPC/Hamilton Cycle.md",
+    "NPC/Pasted image 20230728100900.png",
     "Untitled.canvas",
     "2023-07-28.md",
-    "NPC/Hamilton Cycle & TSP.md",
     "NPC/3-SAT & Hamilton Cycle.md",
     "NPC/3-SAT & Independent Set.md",
     "NPC/Independent Set & Set Packing.md",
     "NPC/Independent Set & Vertex Cover.md",
     "NPC/Vertex Cover & Set Cover.md",
-    "NPC/Hamilton Cycle.md",
     "NPC/TSP Travelling Salesman Problem.md",
-    "NPC/SAT Satisfiability Problem.md",
     "NPC/Set Packing.md",
     "NPC/Set Cover.md",
     "NPC/Vertex Cover.md",
@@ -180,19 +203,13 @@
     "Pasted image 20230728192735.png",
     "Pasted image 20230728192351.png",
     "Sequencing.md",
-    "NPC/Pasted image 20230728100900.png",
     "NPC/Pasted image 20230728094400.png",
     "NETWORK FLOW/Disjoint Paths.md",
     "NPC",
     "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
     "NETWORK FLOW/Minimum Cut.md",
     "NETWORK FLOW/Network Flow.md",
-    "Approximation.md",
-    "NETWORK FLOW/Airline Scheduling.md",
     "NETWORK FLOW/Pasted image 20230726205349.png",
-    "NETWORK FLOW/Circulations with Demands.md",
-    "NETWORK FLOW/Circulations with Demands and Lower Bounds.md",
-    "Randomized.md",
     "NETWORK FLOW/Pasted image 20230725184615.png",
     "NETWORK FLOW",
     "DYNAMIC PROGRAMMING",

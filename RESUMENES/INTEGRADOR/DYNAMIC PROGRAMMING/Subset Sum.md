@@ -1,3 +1,4 @@
+#numerical
 ## Problem
 Given $n$ items ${1, . . . , n}$, and each has a given nonnegative weight $w_i$. Having a bound $W$, select a subset $S$ of the items so that  $w ≤ W$ and $\sum_{i\in S}{w_i}$ is as large as possible.
 ## Solution
@@ -20,3 +21,5 @@ Subset-Sum(n, W):
 
 	Return M[n, W]
 ```
+## Decision Problem
+Given natural numbers $w_1, . . . , w_n$, and a target number $W$, is there a subset of ${w_1, . . . , w_n}$ that adds up to precisely $W$?

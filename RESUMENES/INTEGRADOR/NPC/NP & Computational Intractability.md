@@ -15,6 +15,9 @@
 [[SAT Satisfiability Problem]]
 [[TSP Travelling Salesman Problem]]
 [[Hamilton Cycle]]
+[[3-D Matching]]
+[[Subset Sum]]
+[[k-Coloring]]
 ## Reductions
 [[Independent Set & Vertex Cover]]
 [[Vertex Cover & Set Cover]]
@@ -22,9 +25,10 @@
 [[3-SAT & Independent Set]]
 [[3-SAT & Hamilton Cycle]]
 [[Hamilton Cycle & TSP]]
-[[Partitioning Problems]]
-[[Graph Coloring]]
-[[Numerical Problems]]
+[[3-SAT & 3-D Matching]]
+[[3-SAT & k-Coloring]]
 
 $3-SAT ≤_p Independent \space Set ≤_p Vertex \space Cover ≤_p Set \space Cover$
 $3-SAT \leq_p Hamilton \space Cycle \leq_p TSP$
+$3-SAT \leq_p 3-D \space Matching$
+$3-SAT \leq_p 3-Coloring \leq_p k-Coloring$
