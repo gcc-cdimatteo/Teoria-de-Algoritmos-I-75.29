@@ -18,26 +18,24 @@
             }
           },
           {
-            "id": "74549eb2af55e0da",
+            "id": "e506b906cd5e4562",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/NP & Computational Intractability.md",
+                "file": "APPROXIMATION/Approximation.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "02fc652498c99ad8",
+            "id": "07c045426aca0668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/3-D Matching.md",
+                "file": "NPC/Set Cover.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set cover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/3-D Matching.md",
+                "file": "NPC/Set Cover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/3-D Matching.md",
+                "file": "NPC/Set Cover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/3-D Matching.md"
+                "file": "NPC/Set Cover.md"
               }
             }
           }
@@ -173,27 +171,35 @@
   },
   "active": "6d373e2bb0006965",
   "lastOpenFiles": [
-    "NPC/NP & Computational Intractability.md",
+    "APPROXIMATION",
+    "APPROXIMATION/Pasted image 20230731164205.png",
+    "APPROXIMATION/Approximation.md",
+    "NPC/Set Cover.md",
+    "APPROXIMATION/Pasted image 20230731163929.png",
+    "DYNAMIC PROGRAMMING/Dynamic Programming.md",
+    "Center Selection Problem.md",
     "DYNAMIC PROGRAMMING/Subset Sum.md",
-    "NPC/3-SAT & k-Coloring.md",
-    "NPC/k-Coloring.md",
-    "DYNAMIC PROGRAMMING/Knapsack.md",
+    "NPC/3-SAT & Hamilton Cycle.md",
     "NPC/3-SAT & 3-D Matching.md",
-    "NPC/3-D Matching.md",
+    "NPC/3-SAT & Independent Set.md",
+    "NPC/3-SAT & k-Coloring.md",
     "NPC/SAT Satisfiability Problem.md",
     "NPC/Hamilton Cycle & TSP.md",
     "NPC/Hamilton Cycle.md",
+    "DYNAMIC PROGRAMMING/Weighted Interval Scheduling.md",
+    "DYNAMIC PROGRAMMING/Pasted image 20230724113525.png",
+    "NPC/NP & Computational Intractability.md",
+    "NPC/k-Coloring.md",
+    "DYNAMIC PROGRAMMING/Knapsack.md",
+    "NPC/3-D Matching.md",
     "NPC/Pasted image 20230728100900.png",
     "Untitled.canvas",
     "2023-07-28.md",
-    "NPC/3-SAT & Hamilton Cycle.md",
-    "NPC/3-SAT & Independent Set.md",
     "NPC/Independent Set & Set Packing.md",
     "NPC/Independent Set & Vertex Cover.md",
     "NPC/Vertex Cover & Set Cover.md",
     "NPC/TSP Travelling Salesman Problem.md",
     "NPC/Set Packing.md",
-    "NPC/Set Cover.md",
     "NPC/Vertex Cover.md",
     "NPC/Independent Set.md",
     "NPC/Pasted image 20230728193150.png",
@@ -202,15 +208,7 @@
     "Pasted image 20230728193112.png",
     "Pasted image 20230728192735.png",
     "Pasted image 20230728192351.png",
-    "Sequencing.md",
-    "NPC/Pasted image 20230728094400.png",
-    "NETWORK FLOW/Disjoint Paths.md",
     "NPC",
-    "NETWORK FLOW/Ford-Fulkerson Maximum-Flow.md",
-    "NETWORK FLOW/Minimum Cut.md",
-    "NETWORK FLOW/Network Flow.md",
-    "NETWORK FLOW/Pasted image 20230726205349.png",
-    "NETWORK FLOW/Pasted image 20230725184615.png",
     "NETWORK FLOW",
     "DYNAMIC PROGRAMMING",
     "DIVIDE & CONQUER",

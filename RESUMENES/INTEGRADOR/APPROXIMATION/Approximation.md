@@ -1,4 +1,4 @@
 [[Load Balancing Problem]]
 [[Center Selection Problem]]
-[[Set Cover]]
+[[Set Cover#Greedy Approximation]]
 [[Vertex Cover]]
