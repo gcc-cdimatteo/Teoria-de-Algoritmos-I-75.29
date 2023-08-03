@@ -20,22 +20,24 @@
           {
             "id": "e506b906cd5e4562",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "APPROXIMATION/Approximation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "07c045426aca0668",
+            "id": "b470811e330d8a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Set Cover.md",
+                "file": "GREEDY/Minimum Spanning Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "24d2d40ae295c2f7",
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Set Cover.md",
+                "file": "GREEDY/Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Set Cover.md",
+                "file": "GREEDY/Minimum Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Set Cover.md"
+                "file": "GREEDY/Minimum Spanning Tree.md"
               }
             }
           }
@@ -169,12 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d373e2bb0006965",
+  "active": "b470811e330d8a32",
   "lastOpenFiles": [
+    "APPROXIMATION/Approximation.md",
+    "DYNAMIC PROGRAMMING/Knapsack.md",
+    "Pasted image 20230803144404.png",
+    "Pasted image 20230803144051.png",
+    "NPC/Vertex Cover.md",
+    "NPC/Set Cover.md",
+    "Pasted image 20230803102735.png",
     "APPROXIMATION",
     "APPROXIMATION/Pasted image 20230731164205.png",
-    "APPROXIMATION/Approximation.md",
-    "NPC/Set Cover.md",
     "APPROXIMATION/Pasted image 20230731163929.png",
     "DYNAMIC PROGRAMMING/Dynamic Programming.md",
     "Center Selection Problem.md",
@@ -190,7 +198,6 @@
     "DYNAMIC PROGRAMMING/Pasted image 20230724113525.png",
     "NPC/NP & Computational Intractability.md",
     "NPC/k-Coloring.md",
-    "DYNAMIC PROGRAMMING/Knapsack.md",
     "NPC/3-D Matching.md",
     "NPC/Pasted image 20230728100900.png",
     "Untitled.canvas",
@@ -200,14 +207,10 @@
     "NPC/Vertex Cover & Set Cover.md",
     "NPC/TSP Travelling Salesman Problem.md",
     "NPC/Set Packing.md",
-    "NPC/Vertex Cover.md",
     "NPC/Independent Set.md",
     "NPC/Pasted image 20230728193150.png",
     "NPC/Pasted image 20230728193830.png",
     "NPC/Pasted image 20230728192413.png",
-    "Pasted image 20230728193112.png",
-    "Pasted image 20230728192735.png",
-    "Pasted image 20230728192351.png",
     "NPC",
     "NETWORK FLOW",
     "DYNAMIC PROGRAMMING",

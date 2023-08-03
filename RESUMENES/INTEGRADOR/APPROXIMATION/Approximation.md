@@ -1,4 +1,5 @@
 [[Load Balancing Problem]]
 [[Center Selection Problem]]
 [[Set Cover#Greedy Approximation]]
-[[Vertex Cover]]
+[[Vertex Cover#Greedy Approximation by Pricing Method]]
+[[Knapsack#Approximation]]
