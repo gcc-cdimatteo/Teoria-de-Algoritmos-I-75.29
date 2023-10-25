@@ -16,35 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "e506b906cd5e4562",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APPROXIMATION/Approximation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b470811e330d8a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GREEDY/Minimum Spanning Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GREEDY/Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GREEDY/Minimum Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GREEDY/Minimum Spanning Tree.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,9 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b470811e330d8a32",
+  "active": "bab5e4991c8d906e",
   "lastOpenFiles": [
     "APPROXIMATION/Approximation.md",
+    "GREEDY/Minimum Spanning Tree.md",
     "DYNAMIC PROGRAMMING/Knapsack.md",
     "Pasted image 20230803144404.png",
     "Pasted image 20230803144051.png",
