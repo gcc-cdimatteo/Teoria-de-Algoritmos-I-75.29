@@ -1,0 +1,9 @@
+Clasifico B según el cuadrante al que pertenece de mayor a menor, si dos tuplas pertenecen al mismo cuadrante ordeno según la distancia al origen
+
+Clasifico A según el cuadrante al que pertenece de mayor a menor, si dos tuplas pertenecen al mismo cuadrante ordeno según la distancia al origen
+
+Por cada tupla en B:
+    Tomo todas las tuplas en A que pertenezcan a ese cuadrante o a uno mayor
+    Si no hay: descarto la tupla en B
+    Si hay: Tomo la tupla de A que más cerca esté de B y formo el match
+
